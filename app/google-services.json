@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854495249977",
+    "firebase_url": "https://cath-a4b9d.firebaseio.com",
+    "project_id": "cath-a4b9d",
+    "storage_bucket": "cath-a4b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854495249977:android:77235f0b0bbc88e7d96fe8",
+        "android_client_info": {
+          "package_name": "com.example.newproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854495249977-a0hjksk18sricfol1vnrp0ui527mjc43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkSt_JPCN9rZoVl7UF5KDpf0nT_r9Gzaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854495249977-a0hjksk18sricfol1vnrp0ui527mjc43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
