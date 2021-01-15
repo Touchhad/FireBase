@@ -31,16 +31,18 @@
                 android:layout_width="80dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="#e18c44"
-                android:text="Button" />
+                android:background="@drawable/main_button"
+                android:text="Создать новый заказ"
+                android:textColor="@color/common_google_signin_btn_text_dark_default" />
 
             <Button
                 android:id="@+id/button4"
                 android:layout_width="80dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:background="#e18c44"
-                android:text="Button" />
+                android:background="@drawable/main_button"
+                android:text="История заказов"
+                android:textColor="@color/common_google_signin_btn_text_dark_default" />
         </LinearLayout>
     </LinearLayout>
 
